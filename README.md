@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ali-elsaied-a48a50260" target="blank"><img align="center" src="001891generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ali-elsaied-a48a50260" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ali-elsaied-a48a50260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ali-elsaied-a48a50260" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@alielsaied" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@alielsaied" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/ali_elsaied/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ali_elsaied/" height="30" width="40" /></a>
 </p>

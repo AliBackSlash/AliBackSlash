@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alibackslash" alt="alibackslash" /></a> </p>
 
-- 🔭 I’m currently working on [KMP Nursery Management System](https://github.com/AliBackSlash/KMP-Kindergarten-Management-Program.git)
+- 🔭 I’m currently working on [KMP Nursery Management System](https://github.com/AliBackSlash/KMP-Kindergarten-Management-Program.git) and [Islamic Face](https://github.com/AliBackSlash/Islamic-Face.git)
 
 - 🌱 I’m currently learning **Entity Framework Core, advanced SQL Server performance, clean architecture patterns**
 

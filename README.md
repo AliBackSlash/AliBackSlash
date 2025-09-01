@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.google.com.eg/search?q=Ali+El-saied"> <!-- Google Me -->
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20From%20Egypt;Built%20Islamic%20Face%20Project;Built%20Membership%20Management%20for%20Mijas%20Team%20at%20Jordan;Built%20KMP%20Project;Currently%20Working%20on%20Löwen%20E-Commerce;Learning%20EF%20Core%20%7C%20Clean%20Architecture;Follow%20Me%20For%20Updates&font=Bold%20Code&center=true&color=30F050&pause=2000">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20From%20Egypt;Building%20Islamic%20Face%20Project;Built%20Membership%20Management%20for%20Mijas%20Team%20at%20Jordan;Built%20KMP%20Project;Currently%20Working%20on%20Löwen%20E-Commerce;Learning%20EF%20Core%20%7C%20Clean%20Architecture;Follow%20Me%20For%20Updates&font=Bold%20Code&center=true&color=30F050&pause=2000">
 </a>
 
 </p>
